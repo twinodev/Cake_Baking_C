@@ -1,8 +1,8 @@
 # 🍰 Cake Baking C
 
 A lightweight, header-only C library for **procedural cake baking simulation** — because sometimes you need to bake a cake in under 10 milliseconds.
-
-![Cake](https://img.shields.io/badge/cake-delicious-ff69b4) ![C](https://img.shields.io/badge/language-C-blue) ![License](https://img.shields.io/github/license/twinodev/Cake_Baking_C) ![Build](https://img.shields.io/github/actions/workflow/status/twinodev/Cake_Baking_C/ci.yml?branch=main)
+[![TwinoDev](https://img.shields.io/badge/TwinoDev-Frosting%20Factory-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white)](https://twino.dev/)
+![Cake](https://img.shields.io/badge/cake-delicious-ff69b4) ![C](https://img.shields.io/badge/language-C-blue) ![License](https://img.shields.io/github/license/twinodev/Cake_Baking_C) 
 
 > **"Why bake in Python when you can compile your cake?"**  
 > — Anonymous embedded baker
